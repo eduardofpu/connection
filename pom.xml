@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com</groupId>
-    <artifactId>api-table</artifactId>
+    <artifactId>connection</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>
@@ -87,7 +87,7 @@
     </dependencies>
 
     <build>
-        <finalName>rest-doc-application</finalName>
+        <finalName>connection</finalName>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
